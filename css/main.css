@@ -1,0 +1,209 @@
+/*p.note{
+
+
+}*/
+/*.note{
+	color:green;
+}*/
+/*p.inline-block{
+	color:green;
+ display: inline-block
+}*/
+/*p{!
+	width:300px;
+	padding:40px;
+	border: 2px;
+	margin: 0 auto;
+}*/
+/*div.inline-block{
+	-moz-box-shadow: 0 0 10px deeppink;
+	-webkit-box-shadow: 0 0 0 10px deeppink;
+	box-shadow: 0 0 10px deeppink;
+}*/
+/* line 25, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.container {
+  width: 960px;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin: 0 auto;
+}
+
+/* line 32, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.bodywrapper {
+  background-color: #D3D3D3;
+  padding-top: 40px;
+  margin-top: 20px;
+}
+
+article {
+  padding-top: 80px;
+}
+
+/* line 36, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+header {
+  margin-top: 50px;
+}
+
+/* line 40, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+#imageheader {
+  padding-left: 10px;
+  padding-top: 2px;
+}
+
+/* line 44, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.html {
+  word-spacing: 40px;
+  padding-top: 40px;
+}
+
+/* line 49, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+body {
+  background: white;
+  color: black;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-sarif;
+}
+
+/* line 58, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+h1 {
+  color: #45a2da;
+}
+
+/* line 62, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+header li {
+  display: inline-block;
+}
+
+/* line 66, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+nav li {
+  display: inline-block;
+}
+
+/* line 70, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+#home {
+  color: black;
+  font-size: 20px;
+}
+
+/* line 74, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+#course {
+  color: black;
+  font-size: 20px;
+}
+
+/* line 78, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+#students {
+  color: black;
+  font-size: 20px;
+}
+
+/* line 82, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+#apply {
+  word-spacing: 10px;
+  padding: 20px;
+  color: black;
+  font-size: 20px;
+  background-color: #D3D3D3;
+}
+
+/* line 86, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+header nav li.hover {
+  box-shadow: inset 0 3px 0 0 #45a2da;
+  color: #45a2da;
+}
+
+/* line 90, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.imagecurriculm {
+  width: 400px;
+  
+}
+
+/* line 94, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.imagestudent {
+  width: 400px; 
+  
+}
+.imageclass{
+
+  width: 400px;
+}
+.current{
+  padding-top: 40px;
+}
+
+/* line 100, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+footer nav li a {
+  background-color: black;
+  color: white;
+  display: inline-block;
+}
+
+/* line 105, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.footer-wrapper {
+  background-color: black;
+  border-top: 1px solid rgba(0, 0, 0, 0.085);
+  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.8);
+}
+
+/* line 110, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+#footerimage {
+  padding-top: 60px;
+}
+
+/* line 114, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.textwhite {
+  color: white;
+}
+
+/* line 117, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.col-1-4 {
+  padding-left: 300px;
+}
+
+/* line 123, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 126, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+h3 {
+  color: white;
+  padding-left: 40px;
+}
+
+/* line 130, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+h4 {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+/* line 135, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+footer nav {
+  text-align: left;
+  display: inline-block;
+}
+
+/*footer{
+	background-image: url(alert.png);
+}*/
+/* line 142, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+article p {
+  color: #848484;
+}
+
+/* line 145, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+aside {
+  color: #848484;
+}
+.link{
+   color: blue;
+}
+/* line 148, C:/Users/the wise one/Desktop/codingtemple-website/scss/main.scss */
+.alt-link a {
+   color: white;
+}
+
+/*# sourceMappingURL=../css/main.map */
